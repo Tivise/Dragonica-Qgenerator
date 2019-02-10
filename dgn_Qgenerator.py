@@ -1,6 +1,5 @@
 import os
 tableau_id = {}
-liste_id = []
 continuer = True
 compteur = -1
 while continuer:
